@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Declaration of the knights, gentry, and trained bands of the couuty [sic] of Kent, presented to the honourable House of Commons. Wherein they declare their resolution to march against the Kings army with all the power and strength they can raise, and to rescue His Majesty out of the cavaleers hands. Likewise the answer of the House of Parliament to the said declaration and propositions. December 22. 1642. Ordered by the Lords and Commons assembled in parliament, that this declaration and answer be printed and published. Hen. Elsyng Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82175</idno>
+            <idno type="STC">Wing D698</idno>
+            <idno type="STC">Thomason E83_6</idno>
+            <idno type="STC">ESTC R19159</idno>
+            <idno type="EEBO-CITATION">99860590</idno>
+            <idno type="PROQUEST">99860590</idno>
+            <idno type="VID">112713</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112713)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E83[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Declaration of the knights, gentry, and trained bands of the couuty [sic] of Kent, presented to the honourable House of Commons. Wherein they declare their resolution to march against the Kings army with all the power and strength they can raise, and to rescue His Majesty out of the cavaleers hands. Likewise the answer of the House of Parliament to the said declaration and propositions. December 22. 1642. Ordered by the Lords and Commons assembled in parliament, that this declaration and answer be printed and published. Hen. Elsyng Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Decemb. 22. printed for J. Banks,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kent (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112713:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF THE KNIGHTS, GENTRY, AND Trained Bands of the County of KENT, Preſented to the Honourable Houſe of <hi>COMMONS.</hi>
+            </p>
+            <p>Wherein th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y declare their Reſolution to march againſt the Kings Army with all the power and ſtrength they can raiſe, and to reſcue His Majeſty out of the Cavaleers hands.</p>
+            <p>Likewiſe the Anſwer of the Houſe of Parliament to the ſaid Declaration and Propoſitions.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Dccember 22. 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords and Commons aſſembled in parli<g ref="char:EOLhyphen"/>ment, that this Declaration and Anſwer be printed and publiſhed.</p>
+                        <closer>
+                           <signed>Hen. Elſyng Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>Decemb.</hi> 22. printed for <hi>J. Barks,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:112713:2"/>
+            <pb facs="tcp:112713:2"/>
+            <head>THE DECLARATION AND <hi>PROPOSITIONS</hi> Of the Lords, Knights, Gentry, and Com<g ref="char:EOLhyphen"/>monalty of the county of <hi>Kent.</hi>
+            </head>
+            <head type="sub">Preſented to the Houſe of Commons, <hi>De<g ref="char:EOLhyphen"/>cember the</hi> 21.</head>
+            <p>WE your humble and faithfull Petitio<g ref="char:EOLhyphen"/>ners, the Knights, Gentry, and Commo<g ref="char:EOLhyphen"/>nalty of the County of <hi>Kent,</hi> being deeply ſen<g ref="char:EOLhyphen"/>ſible of the many miſeries which theſe calami<g ref="char:EOLhyphen"/>tous times (notwithſtanding your great care and vigilence to prevent the ſame) are likely to produce.</p>
+            <pb facs="tcp:112713:3"/>
+            <p> Wherein His Gracious Maieſty ſeduced by the malevolent counſell of an ill-affected par<g ref="char:EOLhyphen"/>ty of Malignants and Cavaleirs, the proteſtant Religion, His Royall perſon, and Honour, the priviledge of Parliament, and the Subiects Li<g ref="char:EOLhyphen"/>berty, are thr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atned with too too apparent haz<g ref="char:EOLhyphen"/>zard and Ruine.</p>
+            <p>Towards the ſupport of which, Wee the Knights, Gentry, and Commonalty of the County of <hi>Kent,</hi> according to the Duty of Loy<g ref="char:EOLhyphen"/>all Subiects, and good Chriſtians, are not onely willing to contribu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e our beſt wiſhes and Votes, but even the utmoſt of their endeavours, both with their lives and fortunes, for the redee<g ref="char:EOLhyphen"/>ming of his Maieſty from ſuch hands, and Our Religion and Liberty from ſuch perill and danger:</p>
+            <p>But may it pleaſe this Honourable Houſe to conſider that we do apprehend themſelves in a condition and poſture nothing ſutable to this their Reſolution being deprived, and left naked by the taking our Arms from us: And there<g ref="char:EOLhyphen"/>fore beſeech your provident care to impower us with ſuch a proportion of Arms and Ammu<g ref="char:EOLhyphen"/>nition to be magazined in theſe parts, whereby
+<pb facs="tcp:112713:3"/>wee may be inabled to manifeſt our Affections and obedience to the Command of King and Parliament, both for the purſuance of the afore<g ref="char:EOLhyphen"/>ſaid Intentions, and oppoſition of all illegall Inf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ingemen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of our Law<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Liberties, ſuch as the Commiſſion of Array, wherwith we are at this time threatned, and what other of the like Natu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and condition ſoever ſhall be hereafter obtruded upon us.</p>
+            <div type="license">
+               <p>ORdered by the Lords and Commons aſſembled in Parliament, that this be printed and publiſhed,</p>
+               <closer>
+                  <signed>Hen. El. Cler. Parl. D. Com.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="response_to_declaration">
+            <pb facs="tcp:112713:4"/>
+            <head>THE ANSWER <hi>OF THE</hi> Houſe of Commons to the aforeſaid <hi>De<g ref="char:EOLhyphen"/>claration.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Houſe of Commons have taken your Deelara<g ref="char:EOLhyphen"/>tion into ſerious conſide<g ref="char:EOLhyphen"/>ration, &amp; cannot but with great content obſerve the conſtancie of your good affection to the <hi>King and Parliament,</hi> whic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as well formerly as at this preſent yo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have expreſſed by your Declaration and Propoſitions to this Houſe, and diſclay<g ref="char:EOLhyphen"/>ming and oppoſing with ſo much indu<g ref="char:EOLhyphen"/>ſtry
+<pb facs="tcp:112713:4"/>and fidelity, the ſedicious Deſigns and Endeavours of ſome Malignant and ill-af<g ref="char:EOLhyphen"/>fected perſons within your County, to ſup<g ref="char:EOLhyphen"/>preſſe thoſe malitious practiſes, and to preſerve that County in peace; care hath already bin taken by the Houſe of Com<g ref="char:EOLhyphen"/>mons with good ſucceſſe, and as they in<g ref="char:EOLhyphen"/>tended it, and do believe to your ſafety and ſatisfaction.</p>
+            <p>And the Houſe of Commons do further declare and aſſure you, that they will al<g ref="char:EOLhyphen"/>wayes continue the like care, as for the good, ſafety, and peace of the whole King<g ref="char:EOLhyphen"/>dome, ſo in particular of that County, be<g ref="char:EOLhyphen"/>ing incouraged thereunto by this ſeaſona<g ref="char:EOLhyphen"/>ble Declaration, of your Reſolutions and good affections, for the manifeſtation wherof, of the whole Kingdome, and of their kind acceptation, and thanks for the ſame.</p>
+            <p>The Houſe of Commons have comman<g ref="char:EOLhyphen"/>ded your Declaration, and their Anſwer, to be forthwith printed.</p>
+            <p>They do alſo moſt earneſtly deſire, that
+<pb facs="tcp:112713:5"/>all other Counties would take the ſame Reſolution for the upholding of GODS true Religion, and that every man would lay his hand upon his heart, and ſeriouſly conſider with himſelf, what danger the Go<g ref="char:EOLhyphen"/>ſpell is in, it that the Papiſts grow Con<g ref="char:EOLhyphen"/>querors and Maſters of the field.</p>
+            <div type="license">
+               <p>ORdered by the Lords and Commons aſſem<g ref="char:EOLhyphen"/>bed in Parliament, that this Declaration and Anſwer ſhalbe forthwith printed and pub<g ref="char:EOLhyphen"/>liſhed, and read in all Churches and Chappels within the Kingdome of England and Domi<g ref="char:EOLhyphen"/>nion of Wales, by the Parſons, Vicars, or Curates of the ſame.</p>
+               <closer>
+                  <signed>Hen. Elſing Cler. parl. Dom. Com.</signed>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
